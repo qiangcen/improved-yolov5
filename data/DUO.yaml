@@ -1,0 +1,7 @@
+path: ../datasets/DUO 
+train: images/train  
+val: images/val  
+test:                
+
+nc: 4  
+names: ['starfish','holothurian', 'echinus', 'scallop'] 
